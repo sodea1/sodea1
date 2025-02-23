@@ -26,5 +26,5 @@ I'll review and grant access within **24 hours**.
 **Tools & DevOps:** Git, GitHub, NPM, Heroku, Webpack, JIRA 
 
 ## 📬 Get in Touch  
-💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourname](https://www.linkedin.com/in/seanodea1/) 
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/seanodea1/) 
 📧 **Email:** seanodea11@gmail.com 
