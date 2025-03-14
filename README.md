@@ -7,7 +7,7 @@ I'm a software engineer specializing in frontend and full-stack development. I'm
 Flouis.net is an **AI-powered language learning platform** designed for immersive conversation-based learning. Unlike traditional apps that focus on structured drills, Flouis.net allows users to **learn through natural conversation**, leveraging AI to provide **real-time grammar corrections, speech-to-text, and instant translations**.
 
 ### **🔐 Request Access to Flouis.net's Private Repository**  
-The source code for Flouis.net is private to protect proprietary work, but recruiters and hiring managers can request access:
+Recruiter/Hiring Manager access request form:
 
 ➡️ **[Request Access via Google Form](https://docs.google.com/forms/d/e/1FAIpQLScIhycAzA6hn-qONtIyuyawcWPczCR6Qipcla2ikRUrIcrxGg/viewform?usp=header)**  
 
