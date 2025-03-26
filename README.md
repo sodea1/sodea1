@@ -1,5 +1,3 @@
-# 👋 Welcome!
-
 ## About Me  
 I'm a software engineer specializing in frontend and full-stack development. I'm passionate about building user-friendly, scalable web applications and enjoy working on projects that enhance user experience and solve real-world problems.
 
