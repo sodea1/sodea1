@@ -1,5 +1,5 @@
 ## About Me  
-I'm a software engineer specializing in frontend and full-stack development. I'm passionate about building user-friendly, scalable web applications and enjoy working on projects that enhance user experience and solve real-world problems.
+I'm a software engineer specializing in frontend and full-stack development. Growing up I loved to compete and play sports, and I think there are plenty of similarities between athletics and software development. Both require a strong work ethic and commitment to self-improvement through consistent practice. There's pressure to perform and time constraints. You have to collaborate with your teammates/colleagues to achieve lofty results. They are both hands-on. The list goes on...but each of these characteristics is what makes building software enjoyable, challenging, and rewarding, from my point of view.
 
 ## 🚀 Featured Project: Flouis.net
 As I began learning French using apps like Duolingo I felt disengaged doing endless, repetitive fill in the blank and word matching exercises. I wanted to practice French the way language is meant to be used -- through spontaneous, free-flowing conversation.
